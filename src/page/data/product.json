@@ -1,0 +1,179 @@
+{
+  "cream": [{
+        "id": 1,
+        "name": "CUỐN SOCOLA DÂU",
+        "description": "Cuộn bông lan Socola được cuốn cùng kem tươi Socola cùng với dâu tươi.",
+        "price": 38,
+        "image": "https://product.hstatic.net/1000371035/product/_mg_0456_69b2e0f067eb49d18cba8fad6cf2ae7d_large.jpg",
+        "type": "",
+        "shape": "",
+        "taste": ""
+      },
+      {
+        "id": 2,
+        "name": "CUỐN RICEROLL",
+        "description": "Chiếc bánh 'Gạo cuốn' là sự kết hợp của bột gạo thơm lừng được cuộn tròn trong lớp kem tươi vani mát lạnh.",
+        "price": 18,
+        "image": "https://product.hstatic.net/1000371035/product/_mg_0305_7157978fe0cb4b1ab0604355f254bb5c_large.jpg",
+        "type": "",
+        "shape": "",
+        "taste": ""
+      },
+      {
+        "id": 3,
+        "name": "CUỐN DÂU ĐẶC BIỆT",
+        "description": "Cuộn bông lan được cuốn cùng với dâu tươi và kem Anchor.",
+        "price": 35,
+        "image": "https://product.hstatic.net/1000371035/product/_mg_0303_fda6b48a80fb47f696f363cb35a3889a_large.jpg",
+        "type": "",
+        "shape": "",
+        "taste": ""
+      },
+      {
+        "id": 4,
+        "name": "JAM ĐÀO",
+        "description": "Cấu tạo của bánh gồm các lớp bông lan vani kẹp xen kẽ các lớp mứt đào. Phủ bên trên là lớp mứt đào.",
+        "price": 18,
+        "image": "https://product.hstatic.net/1000371035/product/cadb73a6-5460-4e42-b4e3-0ea76184a6b2_1b1d767577f44862941e2d553b9e842f_large.jpg",
+        "type": "",
+        "shape": "",
+        "taste": ""
+      },
+      {
+        "id": 5,
+        "name": "JAM DÂU",
+        "description": "Cấu tạo của bánh gồm các lớp bông lan vani kẹp xen kẽ các lớp mứt dâu. Phủ bên trên là lớp mứt dâu.",
+        "price": 18,
+        "image": "//product.hstatic.net/1000371035/product/89a485f1-fdf4-4877-ad01-227994befc0a_bdc2220c9bd44204a699090cb7dd467f_large.jpg",
+        "type": "",
+        "shape": "",
+        "taste": ""
+      },
+      {
+        "id": 6,
+        "name": "JAM DỨA",
+        "description": "Cấu tạo của bánh gồm các lớp bông lan vani kẹp xen kẽ các lớp mứt dứa. Phủ bên trên là lớp mứt dứa.",
+        "price": 18,
+        "image": "https://product.hstatic.net/1000371035/product/1ec7afec-2fd2-424b-b21a-afae61828305_08b7f7a5ccd34d5fb6ed5f717307c148_large.jpg",
+        "type": "",
+          "shape": "",
+          "taste": ""
+      },
+      {
+        "id": 7,
+        "name": "MELLOW",
+        "description": "MELLOW",
+        "price": 18,
+        "image": "https://product.hstatic.net/1000371035/product/9fbd01b94defbdb1e4fe_44b4e4d7f757411dae9a218419270cfb_large.jpg",
+        "type": "",
+          "shape": "",
+          "taste": ""
+      }
+    ],
+    "gato": [
+        {
+          "id": 1,
+          "name": "SNOW MAN",
+          "description": "Bánh trang trí người tuyết xinh xắn với vị kem tươi vani.",
+          "price": 18,
+          "image": "https://product.hstatic.net/1000371035/product/snow_man_99958e291bae44b1ac5351093772dd16_master.jpg",
+          "type": "",
+          "shape": "",
+          "taste": ""
+        },
+        {
+          "id": 2,
+          "name": "SOCCCER BALL",
+          "description": "Bánh 3D quả bóng được tạo nên bởi 3 lớp bánh và 2 lớp kem vani.",
+          "price": 18,
+          "image": "https://product.hstatic.net/1000371035/product/soccer_ball_00acbbb3bdf14fc49e09f7a8bf029ca1_master.jpg",
+          "type": "",
+          "shape": "",
+          "taste": ""
+        },
+        {
+          "id": 3,
+          "name": "SAKURA",
+          "description": "Bánh bao gồm 3 lớp bông lan vani xen kẽ 2 lớp kem vani ngọt dịu.",
+          "price": 35,
+          "image": "https://product.hstatic.net/1000371035/product/sakura_1c6cee85e3994b4397c2b733cbdbc031_master.jpg",
+          "type": "",
+          "shape": "",
+          "taste": ""
+        }
+    ],
+    "bread":[
+        {
+          "id": 1,
+          "name": "BÁNH MỲ KEM",
+          "description": "Thành phần bánh gồm bột mì nướng và lớp kem bơ bên trong.",
+          "price": 10,
+          "image": "https://product.hstatic.net/1000371035/product/_mg_0748_copy_2ac0ae89b46748e1998d08c38fd498b8_large.jpg",
+          "type": "",
+          "shape": "",
+          "taste": ""
+        },
+        {
+          "id": 2,
+          "name": "BÁNH MỲ BƠ PHÁP",
+          "description": "Thành phần bao gồm bột mì, bơ Pháp.",
+          "price": 10,
+          "image": "https://product.hstatic.net/1000371035/product/9e342268-19c4-4608-82de-2b68ebad778d_1aa9a8de5bc54af9a7eb49b66d7037bb_large.jpg",
+          "type": "",
+          "shape": "",
+          "taste": ""
+        },
+        {
+          "id": 3,
+          "name": "BISCOT",
+          "description": "Những lát bánh mì được phết bơ và đường được nướng giòn rụm.",
+          "price": 20,
+          "image": "https://product.hstatic.net/1000371035/product/_mg_0895_a05b721d5a7b405b8fba341d986e56d0_large.jpg",
+          "type": "",
+          "shape": "",
+          "taste": ""
+        },
+        {
+          "id": 4,
+          "name": "CHÀ BÔNG",
+          "description": "Thành phần bánh bao gồm lớp bánh mì mềm phết sốt trứng và ruốc.",
+          "price": 20,
+          "image": "https://product.hstatic.net/1000371035/product/_mg_0735_0735dec4795945cc8a1fb2929ed1b4c9_large.jpg",
+          "type": "",
+          "shape": "",
+          "taste": ""
+        }
+    ],
+    "beverage":[
+        {
+          "id": 1,
+          "name": "PEPSI",
+          "description": "",
+          "price": 10,
+          "image": "https://drinkocany.com/wp-content/uploads/2022/07/nuoc-ngot-co-ga-pepsi.webp",
+          "type": "",
+          "shape": "",
+          "taste": ""
+        },
+        {
+          "id": 2,
+          "name": "WARRIOR",
+          "description": "",
+          "price": 10,
+          "image": "https://drinkocany.com/wp-content/uploads/2022/07/nuoc-tang-luc-warrior.jpg",
+          "type": "",
+          "shape": "",
+          "taste": ""
+        },
+        {
+          "id": 3,
+          "name": "COCA COLA",
+          "description": "",
+          "price": 10,
+          "image": "https://drinkocany.com/wp-content/uploads/2022/07/cocacola.webp",
+          "type": "",
+          "shape": "",
+          "taste": ""
+        }
+    ]
+}

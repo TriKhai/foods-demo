@@ -1,0 +1,22 @@
+{
+    "mang1": [
+    {
+        "name": "Jokhaihn",
+        "age": 99
+      },
+      {
+        "name": "khai",
+        "age": 88
+      }
+    ],
+    "mang2": [
+    {
+      "name": "John",
+      "age": 30
+    },
+    {
+      "name": "Alice",
+      "age": 25
+    }
+    ]
+}
